@@ -1,0 +1,2 @@
+# wechatLandscapePatch
+微信ios浏览器开着键盘的情况下横屏会导致页面里的fixed和一些absolute boom元素消失。
